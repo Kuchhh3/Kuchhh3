@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jorge Cortes
+- <h1>👋 Hi, I’m Jorge Cortes </h1>
 - 👀 I’m interested in learning and building
 - 🌱 I’m currently learning C++. Linux
 - 💞️ I’m looking to collaborate on anything
